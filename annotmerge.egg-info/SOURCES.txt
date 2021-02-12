@@ -7,4 +7,5 @@ annotmerge/__init__.py
 annotmerge.egg-info/PKG-INFO
 annotmerge.egg-info/SOURCES.txt
 annotmerge.egg-info/dependency_links.txt
+annotmerge.egg-info/requires.txt
 annotmerge.egg-info/top_level.txt

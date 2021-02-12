@@ -13,7 +13,7 @@ setup(
   version='0.0.1',
   description='This Library helps in merging multiple Pascall VOC Annotation file into a single Annotation',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
-  url='',  
+  url='https://github.com/connectaman/annotmerge',  
   author='Aman Ulla',
   author_email='connectamanulla@gmail.com',
   license='MIT', 

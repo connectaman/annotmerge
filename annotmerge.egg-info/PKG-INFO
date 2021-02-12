@@ -2,7 +2,7 @@ Metadata-Version: 1.1
 Name: annotmerge
 Version: 0.0.1
 Summary: This Library helps in merging multiple Pascall VOC Annotation file into a single Annotation
-Home-page: UNKNOWN
+Home-page: https://github.com/connectaman/annotmerge
 Author: Aman Ulla
 Author-email: connectamanulla@gmail.com
 License: MIT
@@ -13,32 +13,7 @@ Description: This Library helps in merging multiple Pascall VOC Annotation file 
         is created and also output directory is created with merged files and folders
         
         The Structure of folder
-        --dataset/
-            -- annotation folder/
-                --Annotations/
-                --ImageSets
-                --JPEGImages
-                --labelmaps.txt
-            -- annotation folder 2/
-                --Annotations/
-                --ImageSets
-                --JPEGImages
-                --labelmaps.txt
-            -- ....
-            -- ....
-            -- annotation folder n/
-                --Annotations/
-                --ImageSets
-                --JPEGImages
-                --labelmaps.txt 
         
-        Output/Result
-        
-        --output/
-            --Annotations/
-            --ImageSets
-            --JPEGImages
-            --labelmaps.txt
         
         Change Log
         ===========
